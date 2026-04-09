@@ -12,3 +12,4 @@ Each problem set lives in its own folder with a dedicated README.
 | Problem | Concepts |
 |---------|----------|
 | [Deep Thought](./deep/) | Input handling, string normalization, conditionals |
+| [Bank](./bank/) | Input handling, string normalization, `.startswith()` |
